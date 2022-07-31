@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Project Insurrection | 11th Century MMO";
+var l_serverName = "Sainty | Clone Wars Roleplay";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -43,7 +43,7 @@ Avaiable options:
 "backgrounds/videos/yellowgreen.webm"
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/med.webm";
+var l_background = "backgrounds/videos/clones.webm";
 
 /*(Image-background only)
 Place one or more images
@@ -84,7 +84,7 @@ var l_musicDisplay = false;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/TheChoice.ogg", name: "The Choice"},
+	{ogg: "songs/clones.ogg", name: "The Clones"},
 ];
 
 /*Random music order?*/
