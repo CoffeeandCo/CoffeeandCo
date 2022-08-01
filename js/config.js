@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Sainty | Clone Wars Roleplay";
+var l_serverName = "Insurrection | The Last of Us";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -43,7 +43,7 @@ Avaiable options:
 "backgrounds/videos/yellowgreen.webm"
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/clones.webm";
+var l_background = "backgrounds/videos/tlou.webm";
 
 /*(Image-background only)
 Place one or more images
